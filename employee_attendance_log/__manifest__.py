@@ -7,6 +7,7 @@
     'license': 'AGPL-3',
     'website': 'https://www.fabiananguiano.com',
     'depends': ['base', 'hr'],
+    'images': ['static/description/cover.png'],
     'data': [
         'views/attendance_log_view.xml',
     ],
