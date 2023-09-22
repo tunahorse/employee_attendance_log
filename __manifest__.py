@@ -4,7 +4,7 @@
     'category': 'Human Resources',
     'summary': 'Log employee attendance and calculate hours worked.',
     'author': 'Fabian Anguiano',
-    'license': 'MIT',
+    'license': 'AGPL-3',
     'website': 'https://www.fabiananguiano.com',
     'depends': ['base', 'hr'],
     'data': [
